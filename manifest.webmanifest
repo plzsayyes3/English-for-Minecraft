@@ -1,0 +1,12 @@
+{
+  "name": "English for Minecraft",
+  "short_name": "MC English",
+  "description": "A small reading-first English learning app for young Minecraft players.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f0e6",
+  "theme_color": "#f4f0e6",
+  "lang": "ja",
+  "orientation": "any"
+}
